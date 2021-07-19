@@ -1,1 +1,1 @@
-Django webapp location planner to list establishments/places to visit
+Flask webapp location planner to list establishments/places to visit
